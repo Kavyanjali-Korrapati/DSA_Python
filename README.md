@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0020-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
