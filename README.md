@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0020-valid-parentheses) |
 ## Recursion
@@ -38,4 +39,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
