@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0020-valid-parentheses) |
 ## Recursion
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kavyanjali-Korrapati/DSA_Python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
